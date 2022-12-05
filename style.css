@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    height:30px;
+}
+
+body{
+     /* background-image: url(https://cdn.vox-cdn.com/thumbor/6SGcd3hx1__HYwbKDG2N7osEzTg=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66626945/acastro_200311_3936_coronavirus_0001.0.0.jpg); */
+     background-color: aqua;
+}
